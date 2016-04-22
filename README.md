@@ -10,4 +10,4 @@ C++: None
 
 Java: 001-009 Excluding 003
 
-Python: None
+Python: 001-003
