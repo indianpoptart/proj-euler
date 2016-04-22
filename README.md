@@ -8,4 +8,6 @@ C: None
 
 C++: None
 
-Java: None
+Java: 001-009 Excluding 003
+
+Python: None
