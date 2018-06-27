@@ -8,6 +8,8 @@ C: None
 
 C++: None
 
+Kotlin: None
+
 Java: 001-009 Excluding 003
 
 Python: 001-003
